@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# About Project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is coded by PiyushDev. The Flag Mania uses two different APIs : 
+(i) one for getting flag immages from a array of country codes.
+(ii onr for getting three different country names from same array.
+
+## The App is Live here : https://theflagmania.web.app/
 
 ## Available Scripts
 
