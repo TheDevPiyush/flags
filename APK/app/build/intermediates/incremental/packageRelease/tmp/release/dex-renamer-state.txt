@@ -1,0 +1,4 @@
+#Sat Feb 04 21:57:19 IST 2023
+base.0=D\:\\Coding Projects\\React Apps\\Guess The Flag\\flags\\APK\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
