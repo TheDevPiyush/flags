@@ -1,10 +1,17 @@
 # About Project 
 
-This app is coded by PiyushDev. The Flag Mania uses two different APIs : 
-(i) one for getting flag immages from a array of country codes.
-(ii onr for getting three different country names from same array.
+This app is coded by PiyushDev.
+</br>
+<br/>
+The Flag Mania uses two different APIs for backend :<br/>
+&nbsp; (i) one for getting flag images from a array of country codes.<br/>
+&nbsp; (ii one for getting three different country names from same array. 
+<br/><br/>
+The Flag Mania also uses Bootstrap 5.0 for GUI.
 
-## The App is Live here : https://theflagmania.web.app/
+## The App is Live here : 
+Web :          https://theflagmania.web.app/ <br/>
+Play Store :   https://play.google.com/store/apps/details?id=app.flagmania.piyushdev
 
 ## Available Scripts
 
